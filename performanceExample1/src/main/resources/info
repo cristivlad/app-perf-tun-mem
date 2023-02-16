@@ -18,3 +18,7 @@ after code is compiled (with javac) the .java is transformed into .class (which 
 		- InitialCodeCacheSize - size of codeCache when the application starts ~ 160kb
 		- ReservedCodeCacheSize - max of the codeCache size meaning it can grow up to this value
 		- CodeCacheExpansionSize - how quickly it grows
+
+- native compilation tuning
+	- -XX:CICompilerCount=n - number of threads used for compilation (default is 3?)
+	- -XX:CompileThreshold=n - number of times the method should be called to recompile (obviously is more than number of times is run)
