@@ -11,6 +11,7 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>performanceExample1</module>
+      <module>exploringMemory</module>
   </modules>
 
   <properties>
