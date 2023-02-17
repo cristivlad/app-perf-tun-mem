@@ -9,6 +9,7 @@
         <module name="performanceExample1" />
         <module name="escapingReferences" />
         <module name="memoryTest" />
+        <module name="bookCatalog" />
         <module name="exploringMemory" />
       </profile>
     </annotationProcessing>

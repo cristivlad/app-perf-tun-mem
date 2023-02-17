@@ -14,6 +14,7 @@
       <module>exploringMemory</module>
       <module>memoryTest</module>
       <module>escapingReferences</module>
+      <module>bookCatalog</module>
   </modules>
 
   <properties>
