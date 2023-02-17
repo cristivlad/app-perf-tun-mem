@@ -12,6 +12,7 @@
   <modules>
     <module>performanceExample1</module>
       <module>exploringMemory</module>
+      <module>memoryTest</module>
   </modules>
 
   <properties>
