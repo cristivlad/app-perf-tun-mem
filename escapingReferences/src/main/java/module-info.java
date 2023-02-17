@@ -1,0 +1,3 @@
+module escapingReferences {
+    requires exploringMemory;
+}
