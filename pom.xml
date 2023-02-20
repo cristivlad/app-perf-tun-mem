@@ -17,6 +17,7 @@
       <module>bookCatalog</module>
       <module>garbageCollection</module>
     <module>softLeaks</module>
+      <module>fibonnaciPrimes</module>
   </modules>
 
   <properties>
