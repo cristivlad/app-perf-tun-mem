@@ -18,6 +18,7 @@
       <module>garbageCollection</module>
     <module>softLeaks</module>
       <module>fibonnaciPrimes</module>
+      <module>fibonnaciPrimesImproved</module>
   </modules>
 
   <properties>
