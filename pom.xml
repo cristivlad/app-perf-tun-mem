@@ -16,6 +16,7 @@
       <module>escapingReferences</module>
       <module>bookCatalog</module>
       <module>garbageCollection</module>
+    <module>softLeaks</module>
   </modules>
 
   <properties>

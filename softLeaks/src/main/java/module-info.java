@@ -1,0 +1,3 @@
+module softLeaks {
+    requires exploringMemory;
+}
