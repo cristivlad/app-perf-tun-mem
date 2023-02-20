@@ -19,6 +19,7 @@
     <module>softLeaks</module>
       <module>fibonnaciPrimes</module>
       <module>fibonnaciPrimesImproved</module>
+      <module>benchmarking</module>
   </modules>
 
   <properties>
