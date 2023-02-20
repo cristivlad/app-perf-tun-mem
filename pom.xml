@@ -15,6 +15,7 @@
       <module>memoryTest</module>
       <module>escapingReferences</module>
       <module>bookCatalog</module>
+      <module>garbageCollection</module>
   </modules>
 
   <properties>

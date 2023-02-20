@@ -1,0 +1,3 @@
+module garbageCollection {
+    requires exploringMemory;
+}

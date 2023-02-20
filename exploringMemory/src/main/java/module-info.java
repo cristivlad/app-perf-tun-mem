@@ -1,3 +1,3 @@
 module exploringMemory {
-    exports org.exploringMemory to escapingReferences;
+    exports org.exploringMemory to escapingReferences, garbageCollection;
 }
