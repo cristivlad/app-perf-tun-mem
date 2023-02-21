@@ -15,7 +15,7 @@ public class PrimeNumbersTask implements Runnable {
         //only the add really needs to be synchronized
         synchronized (this) {
             Integer testNumber = lastNumberChecked + 1;
-            while (!checker.isPrime(testNumber)) {
+            while (!checker.isPrimeImproved(testNumber)) {
                 testNumber++;
             }
             lastNumberChecked = testNumber;

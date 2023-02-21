@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        int target = 100;
+        int target = 8;
 
         PrimeNumbersTask primeNumbersTask = new PrimeNumbersTask();
         Thread primesGeneratorThread = new Thread(primeNumbersTask);
@@ -27,7 +27,7 @@ public class Main {
             iterations++;
             combined = combinedNumbersTask.getSize();
 
-            if (combined > 100)  {
+            if (combined > target)  {
                 primeNumbersTask.taskComplete();
                 fibonnaciNumbersTask.taskComplete();
                 combinedNumbersTask.taskComplete();
