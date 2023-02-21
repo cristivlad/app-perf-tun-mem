@@ -11,6 +11,7 @@
         <module name="fibonnaciPrimesImproved" />
         <module name="benchmarking" />
         <module name="bookCatalog" />
+        <module name="codingPerformance" />
         <module name="exploringMemory" />
         <module name="performanceExample1" />
         <module name="garbageCollection" />

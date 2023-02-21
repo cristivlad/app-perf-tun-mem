@@ -20,6 +20,7 @@
       <module>fibonnaciPrimes</module>
       <module>fibonnaciPrimesImproved</module>
       <module>benchmarking</module>
+      <module>codingPerformance</module>
   </modules>
 
   <properties>
